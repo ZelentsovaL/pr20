@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770784417861",
+    "project_id": "pr20-lapinskas-korotkov",
+    "storage_bucket": "pr20-lapinskas-korotkov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770784417861:android:34eaa991d7f6dd22772b2c",
+        "android_client_info": {
+          "package_name": "com.example.pr20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtDRzyjfQ2lpVGB-8NT_D68-CA5PcdCvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
